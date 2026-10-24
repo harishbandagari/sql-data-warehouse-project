@@ -8,6 +8,9 @@ Script Purpose:
 This script creates tables in the bronze schema, dropping existing tables if they already exist.
 Run ths script to re-define the DDL structure of "bronze" tables.
 
+Parameters:
+None
+
 ----------
 
 */
